@@ -5,6 +5,7 @@ Bu repo, MNIST veri seti üzerinde rakam tanıma için iki farklı yaklaşım i�
 ## İçerik
 
 1. **basic_algorithm_numpy.ipynb**
+   
    <a target="_blank" href="https://colab.research.google.com/drive/1_LjMSeXhapvW815osna3_GZgbBN9St67#scrollTo=kk7O74MoQbxD">
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
 </a>
@@ -19,6 +20,7 @@ Bu repo, MNIST veri seti üzerinde rakam tanıma için iki farklı yaklaşım i�
    - Precision, recall ve F1 skoru analizleri
 
 2. **advanced_algorithm_keras_pipeline.ipynb**
+   
    <a target="_blank" href="https://colab.research.google.com/drive/1PtY4KN5QQnk9oUPgxpxO_8Y8fG6-cRFy#scrollTo=YGaqMvDgRUUv">
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
 </a>

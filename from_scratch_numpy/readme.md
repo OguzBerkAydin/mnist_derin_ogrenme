@@ -80,5 +80,4 @@ Ayrıca, her rakam sınıfı (0-9) için ayrı ayrı kesinlik ve duyarlılık de
 
 Kodu çalıştırmak için:
 1. Gerekli kütüphaneleri yükleyin
-2. Jupyter notebook'u çalıştırın veya Python dosyasını doğrudan çalıştırın
-3. Eğitim süreci otomatik olarak başlayacak ve sonuçlar görüntülenecektir
+2. Jupyter notebook'u adım adım çalıştırın

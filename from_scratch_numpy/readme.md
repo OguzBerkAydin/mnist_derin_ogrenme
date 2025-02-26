@@ -2,6 +2,10 @@
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
 </a>
 
+<a target="_blank" href="https://github.com/OguzBerkAydin/mnist_derin_ogrenme/tree/main/from_scratch_numpy">
+  <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
+</a>
+
 # MNIST Rakam Tanıma: Yapay Sinir Ağı Implementasyonu ve Analizi
 
 Bu proje, MNIST veri seti üzerinde sıfırdan bir yapay sinir ağı (Neural Network) uygulamasını içerir. Projenin amacı, el yazısı rakamları tanıyan bir model oluşturmak ve bu modelin performansını detaylı olarak analiz etmektir.

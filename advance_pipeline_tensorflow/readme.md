@@ -70,7 +70,7 @@ Kodlama dosyası aşağıdaki ana bölümlerden oluşmaktadır:
 6. **Sonuçların Değerlendirilmesi**: Model performanslarının karşılaştırılması ve görselleştirilmesi
 7. **Analiz ve İyileştirme Önerileri**: Sonuçların yorumlanması ve gelecek çalışmalar için öneriler
 
-## Kullanım
+## Örnek Kullanım
 
 ```python
 # Modelleri eğitmek için
@@ -94,7 +94,7 @@ def normalize_img(image, label):
 ds_train = ds_train.map(normalize_img).cache().shuffle(ds_info.splits['train'].num_examples).batch(128).prefetch(tf.data.AUTOTUNE)
 ds_test = ds_test.map(normalize_img).batch(128).cache().prefetch(tf.data.AUTOTUNE)
 
-# Model oluşturma ve eğitme (örnek)
+# Model oluşturma ve eğitme
 model = tf.keras.Sequential([
   tf.keras.layers.Flatten(input_shape=(28, 28)),
   tf.keras.layers.Dense(128, activation='relu'),

@@ -1,3 +1,11 @@
+<a target="_blank" href="https://colab.research.google.com/drive/1PtY4KN5QQnk9oUPgxpxO_8Y8fG6-cRFy#scrollTo=YGaqMvDgRUUv">
+  <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+</a>
+
+<a target="_blank" href="https://github.com/OguzBerkAydin/mnist_derin_ogrenme/tree/main/advance_pipeline_tensorflow">
+  <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
+</a>
+
 # MNIST Veri Seti ile TensorFlow Modeli Eğitimi
 
 Bu proje, MNIST veri seti üzerinde TensorFlow ve TensorFlow Datasets kullanarak çeşitli ileri düzey sinir ağı modelleri oluşturmayı ve farklı optimizasyon/regularizasyon tekniklerini karşılaştırmayı içermektedir.

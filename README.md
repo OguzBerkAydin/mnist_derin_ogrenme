@@ -12,8 +12,7 @@ Bu repo, MNIST veri seti üzerinde rakam tanıma için iki farklı yaklaşım i�
 
 <a target="_blank" href="https://github.com/OguzBerkAydin/mnist_derin_ogrenme/tree/main/from_scratch_numpy">
   <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
-</a>
-
+</a><br>
 
    - Sıfırdan NumPy ile yapay sinir ağı implementasyonu
    - İleri ve geri yayılım algoritmaları manuel olarak kodlanmıştır
@@ -28,8 +27,7 @@ Bu repo, MNIST veri seti üzerinde rakam tanıma için iki farklı yaklaşım i�
 
 <a target="_blank" href="https://github.com/OguzBerkAydin/mnist_derin_ogrenme/tree/main/advance_pipeline_tensorflow">
   <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub
-</a>
-
+</a><br>
 
    - TensorFlow/Keras ile gelişmiş model pipeline'ı
    - Farklı optimizasyon yöntemlerinin karşılaştırılması (Adam vs SGD)

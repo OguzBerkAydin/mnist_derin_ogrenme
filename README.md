@@ -6,7 +6,7 @@ Bu repo, MNIST veri seti üzerinde rakam tanıma için iki farklı yaklaşım i�
 
 1. **basic_algorithm_numpy.ipynb**
    
-<a target="_blank" href="[https://colab.research.google.com/drive/1_LjMSeXhapvW815osna3_GZgbBN9St67#scrollTo=kk7O74MoQbxD](https://colab.research.google.com/drive/1J8j67mo9Tysj4iuP-sN1piDhnlE9IL8d#scrollTo=sXQwm-ob9zs2)">
+<a target="_blank" href="https://colab.research.google.com/drive/1_LjMSeXhapvW815osna3_GZgbBN9St67#scrollTo=kk7O74MoQbxD">
   <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
 </a>
 
